@@ -18,15 +18,15 @@ a {
   background-color: #808080;
 }
 
-figure {
-  font-size: 10px;
-}
-
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+figcaption {
+  font-size: 10px;
 }
 
 section#featured-property {
