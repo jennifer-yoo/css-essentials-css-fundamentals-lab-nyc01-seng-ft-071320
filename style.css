@@ -10,9 +10,9 @@ h1 {
 
 .center {
   display: block;
-  margin-left: auto;
+  margin-left: 20px
   margin-right: auto;
-  width: 100%;
+  width: 50%;
 }
 
 nav {
