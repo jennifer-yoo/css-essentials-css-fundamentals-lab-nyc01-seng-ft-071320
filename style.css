@@ -20,8 +20,8 @@ a {
 
 .center {
   display: block;
-  margin-left: inherit;
-  margin-right: inherit;
+  margin-left: 50px;
+  margin-right: 50px;
   width: 50%;
 }
 
