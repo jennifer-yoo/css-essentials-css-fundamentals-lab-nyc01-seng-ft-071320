@@ -20,7 +20,7 @@ figure {
 }
 
 img {
-  object-position: center;
+  vertical-align: middle;
 }
 
 section#featured-property {
