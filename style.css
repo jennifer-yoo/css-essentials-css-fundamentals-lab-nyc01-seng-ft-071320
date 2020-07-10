@@ -18,3 +18,8 @@ nav {
 figure {
   text-align: center;
 }
+
+p#featured-property {
+  text-align: center;
+  width: 800px;
+}
