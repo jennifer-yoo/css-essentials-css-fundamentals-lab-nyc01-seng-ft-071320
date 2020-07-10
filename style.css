@@ -26,6 +26,7 @@ section#featured-property {
 
 section#details {
   display: block;
+  float: left;
   background-color: #CD5C5C;
   text-align: center;
   width: 25%;
