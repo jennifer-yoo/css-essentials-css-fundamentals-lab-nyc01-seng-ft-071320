@@ -25,7 +25,7 @@ section#featured-property {
 }
 
 section#details {
-  display: run-in;
+  display: none;
   float: left;
   background-color: #CD5C5C;
   text-align: center;
