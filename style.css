@@ -23,8 +23,3 @@ p#featured-property {
   text-align: center;
   width: 800px;
 }
-
-p#details {
-  display: block;
-  float: left;
-}
