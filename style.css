@@ -34,7 +34,7 @@ figcaption {
   width: 800px;
 }
 
-#details {
+p#details {
   display: block;
   float: left;
   background-color: #CD5C5C;
