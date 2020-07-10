@@ -4,13 +4,12 @@ body {
   margin: 0;
 }
 
-h1 {
+header {
   text-align: center;
 }
 
-.center {
-  display: block;
-  margin: 0 auto;
+#featured-property figure {
+  text-align: center;
 }
 
 nav {
@@ -24,13 +23,14 @@ a {
 }
 
 figcaption {
-  font-size: 12px;
+  font-size: 10px;
   text-align: center;
 }
 
-#featured-property {
+#featured-property p {
   text-align: center;
   width: 800px;
+  margin: 0 auto;
 }
 
 #details {
