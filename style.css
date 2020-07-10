@@ -19,8 +19,11 @@ figure {
   font-size: 10px;
 }
 
-img {
-  vertical-align: middle;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 section#featured-property {
