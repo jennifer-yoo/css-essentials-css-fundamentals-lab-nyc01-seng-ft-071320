@@ -24,7 +24,7 @@ p#featured-property {
   width: 800px;
 }
 
-p#details {
+section#details {
   display: block;
   float: left;
   background-color: #CD5C5C;
