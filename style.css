@@ -29,5 +29,5 @@ section#details {
   background-color: #CD5C5C;
   text-align: center;
   width: 25%;
-  display: initial;
+  display: inherit;
 }
