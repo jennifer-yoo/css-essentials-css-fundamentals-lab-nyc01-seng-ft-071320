@@ -25,9 +25,9 @@ section#featured-property {
 }
 
 section#details {
+  display: flex;
   float: left;
   background-color: #CD5C5C;
   text-align: center;
   width: 25%;
-  display: flex;
 }
